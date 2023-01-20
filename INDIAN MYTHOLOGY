@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BOLLYWOOD</title>
+    <link rel="stylesheet" type="text/css" href="Bollywood.css">
+</head>
+
+<body>
+  <div ><p id="demo"></p></div>
+    <div id="ques1">
+      <div id="count1">
+          <p>1.</p>
+      </div> 
+      <div id="q1">
+          <p>What was the name of Arjuna in the thirteenth year of his exile at King Virata’s Kingdom?</p>
+      </div>
+      
+      <div id="Q1option1">
+          <p><input type="radio" name="ques1" > Uttara
+            </p>
+      </div>
+      <div id="Q1option2">
+          <p><input type="radio" name="ques1"id="correct1"> Brihannala </p>
+      </div>
+      <div id="Q1option3">
+          <p><input type="radio" name="ques1">Urvashi</p>
+      </div>
+      <div id="Q1option4">
+          <p><input type="radio" name="ques1"> Sathyavathi</p>
+      </div>
+    </div>
+    <div id="ques2">
+        <div id="count2">
+            <p>2. </p>
+        </div>
+      <div>
+          <p id="q2">According to Hindu mythology who invented the musical instrument Veena?</p>
+      </div>
+      <div id="Q2option1">
+          <p><input type="radio" name="ques2">Vishnu</p>
+      </div>
+      <div>
+          <p id="Q2option2"><input type="radio" name="ques2"id="correct2">Narad </p>
+      </div>
+      <div>
+          <p id="Q2option3"><input type="radio" name="ques2" >Saraswati</p>
+      </div>
+      <div>
+          <p id="Q2option4"><input type="radio" name="ques2">Krishna</p>
+      </div>
+    </div>
+    <div id="ques3">
+        <div id="count3">
+            <p>3. </p>
+        </div>
+      <div id="q3">
+          <p> What was the original name of the Mahabharata?</p>
+      </div>
+      <div id="Q3option1">
+          <p><input type="radio" name="ques3"> Katha Samhita</p>
+      </div>
+      <div id="Q3option2">
+          <p><input type="radio" name="ques3"> Rajata Rangini</p>
+      </div>
+      <div id="Q3option3">
+          <p ><input type="radio" name="ques3"id="correct3"> Jai Samhita</p>
+      </div>
+      <div id="Q3option4">
+          <p><input type="radio" name="ques3" >  Bharat Katha</p>
+      </div>
+    </div>
+    <div id="ques4">
+        <div id="count4">
+            <p>4. </p>
+        </div>
+      <div id="q4">
+        <p> As per hindu mythology, total number of shakti peeth is</p>
+          
+      </div>
+      <div id="Q4option1">
+          <p ><input type="radio" name="ques4"> 32</p>
+      </div>
+      <div id="Q4option2">
+          <p><input type="radio" name="ques4">36</p>
+      </div>
+      <div id="Q4option3">
+          <p><input type="radio" name="ques4">43</p>
+      </div>
+      <div id="Q4option4">
+          <p><input type="radio" name="ques4" id="correct4" >51</p>
+      </div>
+    </div>
+    <div id="ques5">
+        <div id="count5">
+            <p>5. </p>
+        </div>
+      <div id="q5">
+          <p> In the Ramayana, during the fourteen years of Rama’s exile, Bharat did not rule from Ayodhya. What was his temporary capital? </p>
+      </div>
+      <div id="Q5option1">
+          <p><input type="radio" name="ques5" id="correct5"> Nandigram</p>
+      </div>
+      <div id="Q5option2">
+          <p><input type="radio" name="ques5">Varanasi</p>
+      </div>
+      <div id="Q5option3">
+          <p><input type="radio" name="ques5">Kalinga</p>
+      </div>
+      <div id="Q5option4">
+          <p><input type="radio" name="ques5" > Mathura </p>
+      </div>
+    </div>
+    <div id="ques6">
+        <div id="count6">
+            <p>6. </p>
+        </div>
+      <div id="q6">
+          <p>What was the name of conch of Arjun?</p>
+      </div>
+      <div id="Q6option1">
+          <p><input type="radio" name="ques6">Paundra</p>
+      </div>
+      <div id="Q6option2">
+          <p><input type="radio" name="ques6" > Atirathi</p>
+      </div>
+      <div id="Q6option3">
+          <p><input type="radio" name="ques6" > Devadatta</p>
+      </div>
+      <div id="Q6option4">
+          <p><input type="radio" name="ques6" id="correct6">Panchjanya </p>
+      </div>
+    </div>
+    <div id="ques7">
+        <div id="count7">
+            <p>7. </p>
+        </div>
+      <div id="q7">
+          <p >  Do to whose Sati ceremony, did Raja Ram Mohan Roy pleged toh abolish Sati System?</p>
+      </div>
+      <div id="Q7option1">
+          <p><input type="radio" name="ques7">his Mother</p>
+      </div>
+      <div id="Q7option2">
+          <p><input type="radio" name="ques7" id="correct7"> His Sister</p>
+      </div>
+      <div id="Q7option3">
+          <p><input type="radio" name="ques7" >His sister-in-law </p>
+      </div>
+      <div id="Q7option4">
+          <p><input type="radio" name="ques7"> His grandmother</p>
+      </div>
+    </div>
+    <div id="ques8">
+        <div id="count8">
+            <p>8.</p>
+        </div>
+      <div>
+          <p id="q8">According to Ramayana,  For how many days did Lakshmana slept during the exile period? </p>
+      </div>
+      <div id="Q8option1">
+          <p><input type="radio" name="ques8" > 14 yrs</p>
+      </div>
+      <div id="Q8option2">
+          <p><input type="radio" name="ques8" >13 yrs</p>
+      </div>
+      <div id="Q8option3">
+          <p><input type="radio" name="ques8">  7 days</p>
+      </div>
+      <div id="Q8option4">
+          <p><input type="radio" name="ques8" id="correct8">  Never slept</p>
+      </div>
+    </div>
+    <div id="ques9">
+        <div id="count9">
+            <p>9.</p>
+        </div>
+      <div id="q9">
+          <p> Who among the following is the charioteer of Lord Surya?</p>
+      </div>
+      <div id="Q9option1">
+          <p><input type="radio" name="ques9" >Karna</p>
+      </div>
+      <div id="Q9option2">
+          <p><input type="radio" name="ques9" id="correct9">Arun </p>
+      </div>
+      <div id="Q9option3">
+          <p><input type="radio" name="ques9">Arjun </p>
+      </div>
+      <div id="Q9option4">
+          <p><input type="radio" name="ques9">Jallandhar</p>
+      </div>
+    </div>
+    <div id="ques10">
+        <div id="count10">
+            <p>10.
+            </p>
+        </div>
+      <div id="q10">
+          <p>For how many days did the battle of Kurukshetra held? </p>
+      </div>
+      <div id="Q10option1">
+          <p><input type="radio" name="ques10" >15</p>
+      </div>
+      <div id="Q10option2">
+          <p><input type="radio" name="ques10" > 16</p>
+      </div>
+      <div id="Q10option3">
+          <p><input type="radio" name="ques10"> 17 </p>
+      </div>
+      <div id="Q10option4">
+          <p><input type="radio" name="ques10" id="correct10"> 18</p>
+      </div>
+
+
+      <div id="Submit">
+          <input type="submit" name="submit" value="Submit" onclick="result()" style="height: 30px; width: 70px;">
+      </div>
+    </div>
+    <script type="text/javascript">
+        // Set the date we're counting down to
+var countDownDate = new Date("Jan 5, 2022 15:37:25").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    alert("You're Timed Out!;");
+    window.location="D:/IWT/2ND PROGRESS/1stpage.html";
+  }
+}, 50000);
+
+        function result(argument) {
+            // body...
+            var score =0;
+            if (document.getElementById('correct1').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct2').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct3').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct4').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct5').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct6').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct7').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct8').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct9').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct10').checked) 
+            {
+               score++; 
+            }
+            alert("Your Score is:"+score);
+            
+            if (score<=4) {
+                alert("Better Luck Next Time 👍🏻");
+                window.location="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            
+            if (score==5){
+                alert("NICE!! Someone needs to polish your knowledge on this topic 👍🏻");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==6){
+                alert("NICE!! Someone needs to polish your knowledge on this topic ☺️");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==7){
+                alert(" SUPERSTAR ! Someone's a lil' smarty 😊🙂");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==8){
+                alert("SUPERSTAR ! Someone's a lil' smarty 😊🙂");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==9){
+                alert("SUPERSTAR ! Someone's a lil' smarty 😊🙂");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==10) {
+                alert("BINGO!! YOU DID IT!🤩🤩");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+           
+
+        }
+    </script>
+</body>
+</html>

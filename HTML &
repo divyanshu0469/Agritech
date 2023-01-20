@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BOLLYWOOD</title>
+    <link rel="stylesheet" type="text/css" href="Bollywood.css">
+</head>
+
+<body>
+  <div ><p id="demo"></p></div>
+    <div id="ques1">
+      <div id="count1">
+          <p>1.</p>
+      </div> 
+      <div id="q1">
+          <p>The HTML standard which does not require double quotes around the values of an attribute is called __?</p>
+      </div>
+      
+      <div id="Q1option1">
+          <p><input type="radio" name="ques1" > HTML 1</p>
+      </div>
+      <div id="Q1option2">
+          <p><input type="radio" name="ques1"id="correct1"> HTML 3 </p>
+      </div>
+      <div id="Q1option3">
+          <p><input type="radio" name="ques1">HTML 5</p>
+      </div>
+      <div id="Q1option4">
+          <p><input type="radio" name="ques1">  HTML 7</p>
+      </div>
+    </div>
+    <div id="ques2">
+        <div id="count2">
+            <p>2. </p>
+        </div>
+      <div>
+          <p id="q2">The HTML tag that specifies a CSS style embedded in an element is called __?</p>
+      </div>
+      <div id="Q2option1">
+          <p><input type="radio" name="ques2">Design </p>
+      </div>
+      <div>
+          <p id="Q2option2"><input type="radio" name="ques2"id="correct2"> Style </p>
+      </div>
+      <div>
+          <p id="Q2option3"><input type="radio" name="ques2" > Modify</p>
+      </div>
+      <div>
+          <p id="Q2option4"><input type="radio" name="ques2">  Define</p>
+      </div>
+    </div>
+    <div id="ques3">
+        <div id="count3">
+            <p>3. </p>
+        </div>
+      <div id="q3">
+          <p> CSS stands for -</p>
+      </div>
+      <div id="Q3option1">
+          <p><input type="radio" name="ques3"> Cascade style sheets</p>
+      </div>
+      <div id="Q3option2">
+          <p><input type="radio" name="ques3">  Color and style sheets</p>
+      </div>
+      <div id="Q3option3">
+          <p ><input type="radio" name="ques3"id="correct3"> Cascading style sheets</p>
+      </div>
+      <div id="Q3option4">
+          <p><input type="radio" name="ques3" >   None of the above</p>
+      </div>
+    </div>
+    <div id="ques4">
+        <div id="count4">
+            <p>4. </p>
+        </div>
+      <div id="q4">
+        <p> HTML was first proposed in _.</p>
+          
+      </div>
+      <div id="Q4option1">
+          <p ><input type="radio" name="ques4"> 1980 </p>
+      </div>
+      <div id="Q4option2">
+          <p><input type="radio" name="ques4" id="correct4"> 1990</p>
+      </div>
+      <div id="Q4option3">
+          <p><input type="radio" name="ques4">1995</p>
+      </div>
+      <div id="Q4option4">
+          <p><input type="radio" name="ques4" >2000</p>
+      </div>
+    </div>
+    <div id="ques5">
+        <div id="count5">
+            <p>5. </p>
+        </div>
+      <div id="q5">
+          <p> The CSS property used to draw a line around the elements outside the border? </p>
+      </div>
+      <div id="Q5option1">
+          <p><input type="radio" name="ques5"> Border</p>
+      </div>
+      <div id="Q5option2">
+          <p><input type="radio" name="ques5"  id="correct5">Outline</p>
+      </div>
+      <div id="Q5option3">
+          <p><input type="radio" name="ques5">Padding</p>
+      </div>
+      <div id="Q5option4">
+          <p><input type="radio" name="ques5" > Line </p>
+      </div>
+    </div>
+    <div id="ques6">
+        <div id="count6">
+            <p>6. </p>
+        </div>
+      <div id="q6">
+          <p>What is the font-size of the h1 heading tag?</p>
+      </div>
+      <div id="Q6option1">
+          <p><input type="radio" name="ques6">3.5 em</p>
+      </div>
+      <div id="Q6option2">
+          <p><input type="radio" name="ques6" > 2.17 em</p>
+      </div>
+      <div id="Q6option3">
+          <p><input type="radio" name="ques6" id="correct6" > 2 em</p>
+      </div>
+      <div id="Q6option4">
+          <p><input type="radio" name="ques6" > 1.5 em </p>
+      </div>
+    </div>
+    <div id="ques7">
+        <div id="count7">
+            <p>7. </p>
+        </div>
+      <div id="q7">
+          <p > Which of the following CSS property is used to specify whether the table cells share the common or separate border?</p>
+      </div>
+      <div id="Q7option1">
+          <p><input type="radio" name="ques7" id="correct7">border-collapse</p>
+      </div>
+      <div id="Q7option2">
+          <p><input type="radio" name="ques7" > border-radius</p>
+      </div>
+      <div id="Q7option3">
+          <p><input type="radio" name="ques7" >border-spacing </p>
+      </div>
+      <div id="Q7option4">
+          <p><input type="radio" name="ques7"> None of the above</p>
+      </div>
+    </div>
+    <div id="ques8">
+        <div id="count8">
+            <p>8.</p>
+        </div>
+      <div>
+          <p id="q8">Apart from bold tag, what other tag makes text bold ? </p>
+      </div>
+      <div id="Q8option1">
+          <p><input type="radio" name="ques8" > 'fat' </p>
+      </div>
+      <div id="Q8option2">
+          <p><input type="radio" name="ques8" id="correct8" >'strong'</p>
+      </div>
+      <div id="Q8option3">
+          <p><input type="radio" name="ques8"> 'black'</p>
+      </div>
+      <div id="Q8option4">
+          <p><input type="radio" name="ques8" > 'emp'</p>
+      </div>
+    </div>
+    <div id="ques9">
+        <div id="count9">
+            <p>9.</p>
+        </div>
+      <div id="q9">
+          <p> Which of the following is not a browser ?</p>
+      </div>
+      <div id="Q9option1">
+          <p><input type="radio" name="ques9" id="correct9">Microsofts Bing</p>
+      </div>
+      <div id="Q9option2">
+          <p><input type="radio" name="ques9" >Netscape Navigator </p>
+      </div>
+      <div id="Q9option3">
+          <p><input type="radio" name="ques9">AMozilla Firefoxrjun </p>
+      </div>
+      <div id="Q9option4">
+          <p><input type="radio" name="ques9"> Opera</p>
+      </div>
+    </div>
+    <div id="ques10">
+        <div id="count10">
+            <p>10.
+            </p>
+        </div>
+      <div id="q10">
+          <p>The HTML attribute used to define the internal stylesheet is - </p>
+      </div>
+      <div id="Q10option1">
+          <p><input type="radio" name="ques10" id="correct10" >style</p>
+      </div>
+      <div id="Q10option2">
+          <p><input type="radio" name="ques10" > color</p>
+      </div>
+      <div id="Q10option3">
+          <p><input type="radio" name="ques10">   link</p>
+      </div>
+      <div id="Q10option4">
+          <p><input type="radio" name="ques10" >  script</p>
+      </div>
+
+
+      <div id="Submit">
+          <input type="submit" name="submit" value="Submit" onclick="result()" style="height: 30px; width: 70px;">
+      </div>
+    </div>
+    <script type="text/javascript">
+        // Set the date we're counting down to
+var countDownDate = new Date("Jan 5, 2022 15:37:25").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    alert("You're Timed Out!;");
+    window.location="D:/IWT/2ND PROGRESS/1stpage.html";
+  }
+}, 50000);
+
+        function result(argument) {
+            // body...
+            var score =0;
+            if (document.getElementById('correct1').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct2').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct3').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct4').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct5').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct6').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct7').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct8').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct9').checked) 
+            {
+               score++; 
+            }
+            if (document.getElementById('correct10').checked) 
+            {
+               score++; 
+            }
+            alert("Your Score is:"+score);
+            
+            if (score<=4) {
+                alert("Better Luck Next Time 👍🏻");
+                window.location="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            
+            if (score==5){
+                alert("NICE!! Someone needs to polish your knowledge on this topic 👍🏻");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==6){
+                alert("NICE!! Someone needs to polish your knowledge on this topic ☺️");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==7){
+                alert(" SUPERSTAR ! Someone's a lil' smarty 😊🙂");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==8){
+                alert("SUPERSTAR ! Someone's a lil' smarty 😊🙂");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==9){
+                alert("SUPERSTAR ! Someone's a lil' smarty 😊🙂");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+            if (score==10) {
+                alert("BINGO!! YOU DID IT!🤩🤩");
+                window.location ="D:/IWT/2ND PROGRESS/1stpage.html";
+            }
+           
+
+        }
+    </script>
+</body>
+</html>

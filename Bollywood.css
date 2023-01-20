@@ -1,0 +1,694 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    #count{
+        color: azure;
+        font-size: 30px;
+    }
+    #p {
+  text-align: center;
+  font-size: 60px;
+  color: azure;
+}
+    #ques1{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques2{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques3{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques4{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques5{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques6{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques7{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques8{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    }
+    #ques9{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+    #ques10{ background-image: url("https://t4.ftcdn.net/jpg/03/45/88/07/240_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg");
+    background-size: 100% 100%;
+    color: azure;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    }
+
+    #count1{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+
+    #q1{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q1option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q1option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q1option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+    #Q1option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; }
+
+#count2{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#q2{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q2option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q2option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+#image1{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 43%;
+
+}
+#image2{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 43%;
+
+}
+
+#image3{
+    position: absolute;
+    height: 17%;
+    width: 10%;
+    top: 260px;
+    left: 50%;
+
+}
+#image4{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 50%;
+
+}
+#image5{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 50%;
+
+}
+#image6{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 50%;
+
+}
+
+#image7{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 43%;
+
+}
+#image8{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 50%;
+
+}
+#image9{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 43%;
+
+}
+#image10{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    top: 280px;
+    left: 43%;
+
+}
+    #Q2option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+    #Q2option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+#count3{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+
+        #q3{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q3option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q3option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q3option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+    #Q3option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+
+        #q4{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q4option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q4option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q4option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+    #Q4option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; }
+
+#q5{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q5option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q5option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q5option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+        #Q5option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+
+        #q6{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q6option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q6option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q6option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+        #Q6option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+        #q7{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q7option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q7option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q7option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+        #Q7option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+        #q8{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q8option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q8option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q8option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+        #Q8option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+        #q9{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q9option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q9option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q9option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+        #Q9option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+        #q10{font-size: 40px ;
+    color: azure;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    margin-right: 150px;}
+
+    #Q10option1{font-size: 35px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+    #Q10option2{font-size: 35px;
+    position: absolute;
+    left: 920px;
+    top: 400px;
+    color: azure;
+    padding-left: 50px;
+    padding-right: 100px; }
+
+
+
+    #Q10option3{font-size: 35px;
+        position: absolute;
+        left: 370px;
+        top: 530px;
+        color: azure;
+        padding-left: 50px;
+        padding-right: 100px; }
+
+
+
+
+        #Q10option4{font-size: 35px;
+            position: absolute;
+            left: 920px;
+            top: 530px;
+            color: azure;
+            
+            padding-left: 40px;
+            padding-right: 125px; 
+        }
+#count3{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#count4{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#count5{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#count6{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#count7{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#count8{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#count9{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+#count10{font-size: 60px;
+            color: azure;
+            position: absolute;
+            left: 730px;
+            top: 130px;}
+ #Submit
+            {
+                font-size: 30px;
+                position: absolute;
+                top: 570px;
+                left: 1280px;
+                height: 40px;
+                width: auto;
+                
+
+            }
